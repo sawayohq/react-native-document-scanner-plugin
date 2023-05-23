@@ -65,3 +65,4 @@ lib/
 
 # Expo config plugin
 expo-plugin/build/
+.npmrc
